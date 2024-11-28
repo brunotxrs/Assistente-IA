@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img alt="Projeto é um agente de atendimento IA" src="./ia.png" width="100%">
+  <img alt="Projeto é um agente de atendimento IA" src="./ia.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
