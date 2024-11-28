@@ -22,9 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Neste projeto, Desenvolvi o Agente de Atendimento IA com a plataforma ZAIA para oferecer suporte 24/7, otimizar vendas e transformar a experiência do cliente!
+ Criei um Agente de Atendimento IA com a plataforma ZAIA como projeto pessoal, o Agente de Atendimento capaz de responder dúvidas, auxiliar em vendas e oferecer suporte 24/7. O objetivo foi automatizar interações, melhorar a experiência do cliente e aprender mais sobre IA!
 
-## Conclusão:
 
 <!-- - Acesse o projeto finalizado, [online](https://brunotxrs.github.io/Convite-para-Evento/) -->
 
