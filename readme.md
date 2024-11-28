@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img alt="Projeto Convite para Evento" src="./assets/agente de atendimento ia.png" width="100%">
+   <img alt="Projeto agente de atendimento ia" src="./assets/agente de atendimento ia.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
